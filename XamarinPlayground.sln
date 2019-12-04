@@ -1,11 +1,11 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinIntro.Android", "XamarinIntro.Android\XamarinIntro.Android.csproj", "{7F0E9A77-EFCE-4A2C-8743-C40B0EF79673}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPlayground.Android", "XamarinPlayground.Android\XamarinPlayground.Android.csproj", "{7F0E9A77-EFCE-4A2C-8743-C40B0EF79673}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinIntro.iOS", "XamarinIntro.iOS\XamarinIntro.iOS.csproj", "{E1317D49-3C8B-4A9E-9546-764880454C87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPlayground.iOS", "XamarinPlayground.iOS\XamarinPlayground.iOS.csproj", "{E1317D49-3C8B-4A9E-9546-764880454C87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinIntro", "XamarinIntro\XamarinIntro.csproj", "{AB5698E2-DC09-4A7C-B184-A47A68C5D97A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPlayground", "XamarinPlayground\XamarinPlayground.csproj", "{AB5698E2-DC09-4A7C-B184-A47A68C5D97A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
