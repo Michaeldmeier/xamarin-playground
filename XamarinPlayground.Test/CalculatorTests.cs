@@ -7,7 +7,6 @@ namespace XamarinPlayground.Test
     [TestClass]
     public class OperationTests
     {
-
         ICalculator calc;
 
         public OperationTests() {

@@ -9,8 +9,7 @@ namespace XamarinPlayground
         public App()
         {
             InitializeComponent();
-
-            MainPage = new MainPage();
+            MainPage = new MainPage(new MainPageViewModel());
         }
 
         protected override void OnStart()

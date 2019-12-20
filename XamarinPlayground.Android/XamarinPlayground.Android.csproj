@@ -41,8 +41,6 @@
     <WarningLevel>4</WarningLevel>
     <AndroidManagedSymbols>true</AndroidManagedSymbols>
     <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
-    <BundleAssemblies></BundleAssemblies>
-    <EnableLLVM>false</EnableLLVM>
     <AndroidDexTool></AndroidDexTool>
     <Nullable></Nullable>
     <EmbedAssembliesIntoApk></EmbedAssembliesIntoApk>

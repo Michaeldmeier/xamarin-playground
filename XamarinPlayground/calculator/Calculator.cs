@@ -1,10 +1,13 @@
 ﻿using System;
 namespace XamarinPlayground.calculator
 {
+
     public class Calculator : ICalculator
     {
+
         public Calculator()
         {
+            
         }
 
         Double ICalculator.Sum(Double[] numbers)
@@ -23,5 +26,6 @@ namespace XamarinPlayground.calculator
         {
             return n1 + n2;
         }
+
     }
 }
